@@ -1,2 +1,2 @@
 # FitFolio
-Basic health app using TKinter, PostgreSQL, API's etc.
+Basic health app using TKinter, MySQL, API's etc.
